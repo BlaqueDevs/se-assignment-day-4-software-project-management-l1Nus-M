@@ -83,13 +83,33 @@
   - Timeline Visualization: Gantt charts display the project timeline, showing start and finish dates for each task and the overall project.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+-- My software would address youth unemployment and skills mismatch by creating a digital skills marketplace that connects students and fresh graduates with short-term gigs, internships, and entry-level jobs.
+  - Many young Kenyans struggle to transition from school to employment due to a lack of experience or access to professional networks.
+  - Employers, on the other hand, find it difficult to source reliable talent for short-term or freelance work.
+  - This problem aligns with SDG 8 (Decent Work and Economic Growth) by promoting youth employment and skill development.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-
+- Helps ensure the solution directly targets the pain points: lack of opportunities, networking barriers, and employer trust.
+- Allows for better UX design by focusing on essential features (e.g., skill verification, AI-driven job matching).
+- Makes it easier to communicate the problem to stakeholders, increasing chances of funding or partnerships.
+  
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+-- A platform that connects students and fresh graduates with short-term jobs, gigs, and internship opportunities based on their skills and location. It helps young people gain real-world experience while providing businesses with affordable, skilled talent.
 
 ## 11. What are the main features or functionalities that make your software stand out?
-
+- AI-powered matching: Automatically connects job seekers with the most relevant gigs.
+- Skill validation: Users can earn verified skill badges through short assessments or coursework completion.
+- Integrated learning modules: Provides free courses on in-demand skills.
+- Community & mentorship: Allows students to connect with industry professionals for career guidance.
+  
 ## 12. What data is available regarding the market size and growth potential for your software?
-
+- The demand for affordable, short-term skilled labor is rising, especially among startups and SMEs.
+- Online job platforms like Upwork and Fiverr are gaining traction, showing a clear shift toward digital work opportunities.
+- The gig economy in Kenya is growing rapidly—Ajira Digital reports that over 1.2 million Kenyans are already engaged in freelance work.
+- Kenya’s unemployment rate is around 5.6%, but youth unemployment is much higher (over 35% in urban areas).
+  
 ## 13. How can understanding market trends inform your software’s positioning and development?
+- Government-backed initiatives like Ajira Digital and Kazi Mtaani suggest partnership opportunities for scaling.
+- Employers are increasingly interested in soft skills—offering courses on communication and professionalism could add value.
+- Many students lack digital payment options—integrating mobile money (M-Pesa) would be crucial.
+- With more companies embracing remote work, the platform could include virtual internships.
